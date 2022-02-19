@@ -1,0 +1,6 @@
+Coffee	5	680.0
+Rapsberry	9	700
+Broccoli	0	550
+Walnut Cookies	0	800
+Red wine	4	1200
+Walnut Cookies	22	800.0
